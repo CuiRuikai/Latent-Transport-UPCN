@@ -2,7 +2,7 @@
 
 Created by [Ruikai Cui](https://ruikai.ink/), [Shi Qiu](https://shiqiu0419.github.io/), [Saeed Anwar](https://saeed-anwar.github.io/), [Jing Zhang](https://jingzhang617.github.io/), [Nick Barnes](http://users.cecs.anu.edu.au/~nmb/)
 
-[[arXiv]](https://arxiv.org/abs/2211.06820) [[poster]](https://ruikai.ink/static/files/latent-transport-upcn.pdf)
+[[arXiv]](https://arxiv.org/abs/2211.06820) [[poster]](https://ruikai.ink/static/files/latent-transport-upcn.pdf) [[Supplymentry]](https://ruikai.ink/static/files/Supplementary_Material.pdf)
 
 ---
 ## To-do
