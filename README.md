@@ -14,7 +14,7 @@ Created by [Ruikai Cui](https://ruikai.ink/), [Shi Qiu](https://shiqiu0419.githu
 #### Building Pytorch Extensions for Chamfer Distance, PointNet++ and kNN
 
 ### Dataset
-Preprocessed 3D-EPN dataset can be downloaded from [[Google Drive]](https://drive.google.com/file/d/1TxM8ZhaKEZWWSnakU2KGBLAO0pRnKDKo/view?usp=sharing), [[OneDrive]](https://anu365-my.sharepoint.com/:u:/g/personal/u6919043_anu_edu_au/EaPrKMDClTdMgsHgpTUiDagBodq9A35Q0RCddso73TdCqQ?e=B1x0g8)
+Preprocessed 3D-EPN dataset can be downloaded from [[Google Drive]](https://drive.google.com/file/d/1-oA4pYO7fidspqtF822kCpbXBs-SlFMC/view?usp=sharing), [[OneDrive]](https://anu365-my.sharepoint.com/:u:/g/personal/u6919043_anu_edu_au/EaPrKMDClTdMgsHgpTUiDagBodq9A35Q0RCddso73TdCqQ?e=B1x0g8)
 Place the dataset in ```./data/EPN3D/```
 ### Training
 
